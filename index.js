@@ -24,13 +24,13 @@ function multiply(a, b) {
   return multiply;
 }
 
-function divide(a, b); {
+function divide(a, b) {
  var divide = 5.0 / 2.5;
  return divide;
 }
  
  function inc(n); {
- var inca = n + 1;
- return inca;
+ var a = a + 1;
+ return a;
  }
 
