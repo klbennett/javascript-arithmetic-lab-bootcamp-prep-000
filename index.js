@@ -25,9 +25,9 @@ function multiply(a, b) {
 }
 
 function divide(a, b);
- var divide = 5 / 2.5;
+ var divide = 5.0 / 2.5;
  return divide;
- }
+}
  
  function inc(n); {
  var inca = n + 1;
