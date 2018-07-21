@@ -24,7 +24,7 @@ function multiply(a, b) {
   return multiply;
 }
 
-function divide(5 / 2.5);
+function divide(a, b);
  var divide = 5 / 2.5;
  return divide;
  }
