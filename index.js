@@ -34,3 +34,12 @@ var a = 6;
  }
 
 inc(a);
+
+var a = 6;
+
+ function inc(a) {
+ a = a + 1;
+ return a;
+ }
+
+inc(a);
