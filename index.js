@@ -31,3 +31,4 @@ divide(5.0 / 2.5);
  return a;
  }
 
+inc(a);
