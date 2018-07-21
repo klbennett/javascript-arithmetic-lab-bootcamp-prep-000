@@ -19,16 +19,13 @@ function multiply(a, b) {
 
 multiply(2 * 3.4);
 
-function multiply(a, b) {
-  var multiply = a * b;
-  return multiply;
-}
-
 function divide(a, b) {
  var divide = 5.0 / 2.5;
  return divide;
 }
  
+divide(5.0 / 2.5);
+
  function inc(n) {
  var a = a + 1;
  return a;
