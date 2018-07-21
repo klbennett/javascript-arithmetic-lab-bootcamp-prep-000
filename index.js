@@ -33,4 +33,4 @@ var a = 6;
  return a;
  }
 
-inc(n);
+inc(a);
