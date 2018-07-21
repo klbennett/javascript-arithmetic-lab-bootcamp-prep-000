@@ -26,6 +26,7 @@ function divide(a, b) {
  
 divide(5.0 / 2.5);
 
+var a = 0
  function inc(n) {
  var a = a + 1;
  return a;
