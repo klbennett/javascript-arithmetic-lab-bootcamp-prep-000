@@ -29,7 +29,7 @@ divide(5.0 / 2.5);
 var a = 6;
 
  function inc(a) {
- var a = a + 1;
+ a = a + 1;
  return a;
  }
 
