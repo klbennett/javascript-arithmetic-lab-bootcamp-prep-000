@@ -20,7 +20,7 @@ function multiply(a, b) {
 multiply(2 * 3.4);
 
 function divide(a, b) {
- var divide = 5.0 / 2.5;
+ var divide = a / b;
  return divide;
 }
  
