@@ -45,6 +45,7 @@ var b = 6;
 dec(b);
 
 function makeInt(n) {
-  parseInt()
+  parseInt('41414', 10);
 }
-makeInt
+
+makeInt();
