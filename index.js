@@ -34,3 +34,5 @@ var a = 6;
  }
 
 inc(a);
+
+parseInt()
