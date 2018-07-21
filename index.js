@@ -43,3 +43,5 @@ var b = 6;
  }
 
 dec(b);
+
+makeInt
