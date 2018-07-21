@@ -24,12 +24,12 @@ function multiply(a, b) {
   return multiply;
 }
 
-divide(5 / 2.5);
+function divide(5 / 2.5);
  var divide = 5 / 2.5;
  return divide;
  }
  
- inc(n); {
+ function inc(n); {
  var inca = n + 1;
  return inca;
  }
