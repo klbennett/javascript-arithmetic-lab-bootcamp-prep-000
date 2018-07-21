@@ -52,7 +52,7 @@ function makeInt(a) {
 makeInt('457', 10);
 
 function preserveDecimal(a) {
-  b = parseInt(a, 10);
+  b = parseFloat(a, 10);
   return b;
 }
 
