@@ -26,10 +26,11 @@ function divide(a, b) {
  
 divide(5.0 / 2.5);
 
-var a = 6
- function inc(n) {
+var a = 6;
+
+ function inc(a) {
  var a = a + 1;
  return a;
  }
 
-inc(a);
+inc(n);
