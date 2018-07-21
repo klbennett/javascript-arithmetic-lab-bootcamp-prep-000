@@ -56,5 +56,5 @@ function preserveDecimal(a) {
   return b;
 }
 
-preserveDecimal
+preserveDecimal('043403.678')
 
