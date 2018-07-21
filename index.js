@@ -29,5 +29,6 @@ divide(5 / 2.5);
  return divide;
  }
  
- inc(n)
+ inc(n);
+ var inc = 
 
