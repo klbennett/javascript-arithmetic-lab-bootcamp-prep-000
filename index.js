@@ -46,7 +46,7 @@ dec(b);
 
 function makeInt(a) {
   parseInt('a', 10);
-  return parseInt;
+  return makeInt;
 }
 
 makeInt('21313', 10);
