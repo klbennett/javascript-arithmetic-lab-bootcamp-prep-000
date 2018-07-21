@@ -35,4 +35,4 @@ var a = 6;
 
 inc(a);
 
-parseInt()
+parseInt('2.2222', 10)
