@@ -37,9 +37,9 @@ inc(a);
 
 var b = 6;
 
- function inc(a) {
+ function dec(b) {
  b = b - 1;
- return a;
+ return b;
  }
 
-inc(b);
+dec(b);
